@@ -1,12 +1,12 @@
 {
     "basics": {
-        "name": "Brian Onang'os",
+        "name": "Brian Onang'o",
         "profession": "Mechatronic Engineer",
         "picture": "",
         "email": "brian@cseco.co.ke,surgbc@gmail.com",
         "website": "https://brianmechanisms.github.io/",
         "objective": "",
-        "repo": "csymapp/vue-resume",
+        "repo": "Surgbc/vue-resume",
         "profiles": [
             {
                 "network": "twitter",
@@ -42,11 +42,11 @@
             ],
             "summary": "",
             "description_3": "",
-            "in_resume": "TRUE",
+            "in_resume": true,
             "position": "phd. candidate, biostatistics",
             "company": "Nashville, TN",
-            "startDate": "2015",
-            "endDate": "2020",
+            "startDate": 2015,
+            "endDate": 2020,
             "highlights": [
                 "Focused on network models & interactive visualization platforms for electronic health records data",
                 "University Graduate Fellow"
@@ -63,7 +63,7 @@
                 "Django",
                 "Hosted on Heroku"
             ],
-            "in_resume": "TRUE",
+            "in_resume": true,
             "name": "wheeler points",
             "highlights": [
                 "RAs can log in to see reasons for points given and taken",
@@ -71,8 +71,8 @@
                 "Can be generalized to provide a private leaderboard for any usecase",
                 "Code available upon request"
             ],
-            "startDate": "2015",
-            "endDate": "2020"
+            "startDate": 2015,
+            "endDate": 2020
         }
     ],
     "education": [
@@ -84,10 +84,10 @@
             "description_1": "Focused on network models & interactive visualization platforms for electronic health records data",
             "description_2": "University Graduate Fellow",
             "description_3": "",
-            "in_resume": "TRUE",
+            "in_resume": true,
             "area": "phd. candidate, biostatistics",
-            "startDate": "2015",
-            "endDate": "2020"
+            "startDate": 2015,
+            "endDate": 2020
         }
     ],
     "skills": [
@@ -95,37 +95,37 @@
             "name": "Languages",
             "keywords": [
                 {
-                    "level": "5",
+                    "level": 5.0,
                     "website": "",
                     "display": "R"
                 },
                 {
-                    "level": "4.5",
+                    "level": 4.5,
                     "website": "",
                     "display": "Javascript (d3.js)"
                 },
                 {
-                    "level": "4",
+                    "level": 4.0,
                     "website": "",
                     "display": "C++"
                 },
                 {
-                    "level": "4",
+                    "level": 4.0,
                     "website": "https://www.python.org/",
                     "display": "Python 3"
                 },
                 {
-                    "level": "3.5",
+                    "level": 3.5,
                     "website": "",
                     "display": "Bash"
                 },
                 {
-                    "level": "3",
+                    "level": 3.0,
                     "website": "",
                     "display": "SQL"
                 },
                 {
-                    "level": "3",
+                    "level": 3.0,
                     "website": "",
                     "display": "AWK"
                 }
@@ -135,37 +135,37 @@
             "name": "Frameworks",
             "keywords": [
                 {
-                    "level": "5",
+                    "level": 5.0,
                     "website": "",
                     "display": "R"
                 },
                 {
-                    "level": "4.5",
+                    "level": 4.5,
                     "website": "",
                     "display": "Javascript (d3.js)"
                 },
                 {
-                    "level": "4",
+                    "level": 4.0,
                     "website": "",
                     "display": "C++"
                 },
                 {
-                    "level": "4",
+                    "level": 4.0,
                     "website": "https://www.python.org/",
                     "display": "Python 3"
                 },
                 {
-                    "level": "3.5",
+                    "level": 3.5,
                     "website": "",
                     "display": "Bash"
                 },
                 {
-                    "level": "3",
+                    "level": 3.0,
                     "website": "",
                     "display": "SQL"
                 },
                 {
-                    "level": "3",
+                    "level": 3.0,
                     "website": "",
                     "display": "AWK"
                 }
@@ -175,37 +175,37 @@
             "name": "Concepts",
             "keywords": [
                 {
-                    "level": "5",
+                    "level": 5.0,
                     "website": "",
                     "display": "R"
                 },
                 {
-                    "level": "4.5",
+                    "level": 4.5,
                     "website": "",
                     "display": "Javascript (d3.js)"
                 },
                 {
-                    "level": "4",
+                    "level": 4.0,
                     "website": "",
                     "display": "C++"
                 },
                 {
-                    "level": "4",
+                    "level": 4.0,
                     "website": "https://www.python.org/",
                     "display": "Python 3"
                 },
                 {
-                    "level": "3.5",
+                    "level": 3.5,
                     "website": "",
                     "display": "Bash"
                 },
                 {
-                    "level": "3",
+                    "level": 3.0,
                     "website": "",
                     "display": "SQL"
                 },
                 {
-                    "level": "3",
+                    "level": 3.0,
                     "website": "",
                     "display": "AWK"
                 }
